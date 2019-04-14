@@ -30,10 +30,3 @@ function dec(a){
   var difference = a-1;
   return difference;
 }
-
-funtion makeInt(a, base){
-  var parsed = parseInt(a, base);
-  if (isNaN(parsed)) {return 0}
-  return parsed * 10;
-}
-
