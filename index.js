@@ -31,9 +31,9 @@ function dec(a){
   return difference;
 }
 
-function makeInt(n){
-  var makeInt = parseInt(a);
-  return makeInt;
+function makeInt(a.toString){
+  var parseInt = a;
+  return parseInt;
 }
 
 describe('makeInt(n)', function() {
