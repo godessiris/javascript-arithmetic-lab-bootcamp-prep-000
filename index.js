@@ -32,7 +32,7 @@ function dec(a){
 }
 
 funtion makeInt(a, base){
-  var 
+  var parses =
   
 }
 
