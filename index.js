@@ -23,6 +23,10 @@ function divide(a,b){
 
 
 function inc(a){
+  var sum = a+1;
+  result sum;
+}
+
   
 
 it('inc(n) increments n and returns the result', function() {
