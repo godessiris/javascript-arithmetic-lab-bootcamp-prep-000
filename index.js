@@ -31,7 +31,8 @@ function dec(a){
   return difference;
 }
 
-funtion makeInt(a.){
+funtion makeInt(n){
+  
   
 }
 
