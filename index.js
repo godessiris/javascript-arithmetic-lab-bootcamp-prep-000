@@ -21,9 +21,9 @@ function divide(a,b){
   return quotient;
 }
 
+
 function inc(n){
   
-
 
 it('inc(n) increments n and returns the result', function() {
   expect(inc(a)).toEqual(a + 1)
