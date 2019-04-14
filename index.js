@@ -8,7 +8,7 @@ function add(a,b){
 
 function subtract(a,b){
   var difference = a-b;
-  return differnce;
+  return difference;
 }
 
 function multiply(a,b){
