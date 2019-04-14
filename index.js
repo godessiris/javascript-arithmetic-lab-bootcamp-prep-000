@@ -2,16 +2,23 @@ var a = Math.floor(Math.random() * 1000)
 var b = Math.floor(Math.random() * 1000)
 
 function add(a,b){
-  add = (a+b);
+  var sum = a+b;
+  return sum;
 }
+
 function subtract(a,b){
-  subtract = (a-b);
+  var difference = a-b;
+  return differnce;
 }
+
 function multiply(a,b){
-  multipy = (a*b);
+  var product = a*b;
+  return product;
 }
+
 function divide(a,b){
-  divide = (a/b);
+  var quotient = a/b;
+  return quotient;
 }
 
 function inc(a){
