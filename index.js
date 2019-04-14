@@ -32,8 +32,9 @@ function dec(a){
 }
 
 funtion makeInt(a, base){
-  var parses =
-  
+  var parsed = parseInt(a, base);
+  if (isNaN(parsed)) {return 0}
+  return parsed * 10;
 }
 
 
