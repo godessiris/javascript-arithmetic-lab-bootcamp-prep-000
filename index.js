@@ -21,8 +21,3 @@ function divide(a,b){
   return quotient;
 }
 
-
-function inc(a){
-  var sum = a+1;
-  result sum;
-}
