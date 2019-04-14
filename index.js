@@ -31,7 +31,7 @@ function dec(a){
   return difference;
 }
 
-funtion makeInt(a.toString){
+funtion makeInt(a, base){
   var 
   
 }
