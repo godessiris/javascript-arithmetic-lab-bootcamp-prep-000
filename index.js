@@ -31,7 +31,7 @@ function dec(a){
   return difference;
 }
 
-function makeInt(a.toString){
-  var parseInt = a;
-  return parseInt;
+funtion makeInt(a.){
+  
 }
+
