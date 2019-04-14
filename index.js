@@ -31,8 +31,8 @@ function dec(a){
   return difference;
 }
 
-funtion makeInt(n){
-  
+funtion makeInt(a.toString){
+  var 
   
 }
 
