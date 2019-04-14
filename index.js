@@ -31,8 +31,8 @@ function dec(a){
   return difference;
 }
 
-function makeInt(){
-  var
+function makeInt(a){
+  var makeInt = parseInt
 }
 
 describe('makeInt(n)', function() {
